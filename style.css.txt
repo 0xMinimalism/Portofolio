@@ -1,0 +1,19 @@
+/* style.css */
+body {
+  font-family: sans-serif;
+  max-width: 600px;
+  margin: auto;
+  padding: 2em;
+  background: #fefefe;
+  color: #333;
+}
+header {
+  text-align: center;
+  margin-bottom: 2em;
+}
+footer {
+  margin-top: 3em;
+  font-size: 0.9em;
+  color: #888;
+  text-align: center;
+}
